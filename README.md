@@ -2,7 +2,7 @@
 This is the ropository for my BE thesis under the supervision of Prof. Madeleine Lowery, for which I received an A+ grade.
 This code is for immplementing different open and closed-loop deep brain stimulation (DBS) alogrithms, including ON/OFF Stimulation, Dual Threshold Amplitude Modulation Stimulation, Proportional (Integral Derivative) Amplitude and Frquency Moduclation Stimulation.
 
-This code was implemented for the W2100 Wireless System by MultiChannel Systems (https://www.multichannelsystems.com/products/ wireless-systems).
+This code was implemented for the [W2100 Wireless System](https://www.multichannelsystems.com/products/wireless-systems) by MultiChannel Systems.
 
 The results were very [promising](https://drive.google.com/drive/folders/1ckj78Yfw_t7ToD3CeOXzG4wE5-tvCAnh?usp=sharing) and the system is currently being tested for animal trials. 
 
