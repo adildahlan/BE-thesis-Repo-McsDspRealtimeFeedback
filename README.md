@@ -19,6 +19,6 @@ Last but not least, I would like to thank my Father, Imad, and my sister, Lian, 
 
 
 # Thesis & Poster
-Feel free to checkout my poster and my thesis for more details on closed loop DBS and the different algorithms that were implemented. 
+Feel free to checkout my [poster](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/Adil_Poster.pptx) and my thesis [thesis](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/AdilDahlan_Thesis.pdf)  for more details on closed loop DBS and the different algorithms that were implemented. 
 
 NB: The code in the thesis is the old version. For the latest version, checkout the different branches in the repository.
