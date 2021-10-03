@@ -1,16 +1,24 @@
-# McsDspRealtimeFeedback
+# Introduction
+This is the ropository for my BE thesis under the supervision of Prof. Madeleine Lowery, for which I received an A+ grade.
+This code is for immplementing different open and closed-loop deep brain stimulation (DBS) alogrithms, including ON/OFF Stimulation, Dual Threshold Amplitude Modulation Stimulation, Proportional (Integral Derivative) Amplitude and Frquency Moduclation Stimulation.
 
-Code and Documentation for MCS DSP Realtime Feedback on the MCS-Interfaceboard
+This code was implemented for the W2100 Wireless System by MultiChannel Systems (https://www.multichannelsystems.com/products/ wireless-systems).
 
-## Getting Started
+The results were very promising and the system is currently being tested for animal trials.
 
-### Prerequisites
+# Acknowledgments
+I would like to deeply thank Professor Madeleine Lowery, my supervisor, for her continuous support and guidance, enthusiastic encouragement, constructive critiques and believing in me, giving me the chance to be part of this amazing project despite joining the course late.
 
-* Texas Instruments Code Composer Studio 6.2.0
-* Microsoft Visual Studio 2019
+Additionally, I would like to also thank MultiChannel Systems LLC team for lending us the W2100 system I used in this project and in particular I would like to thank Dr Jens, the Head of Firmware Department, for helping us reprogram the system to implement closed-loop stimulation.
 
-### Authors
-See the [AUTHORS.md](https://github.com/multichannelsystems/McsDspRealtimeFeedback/blob/master/AUTHORS.md) for a list of contributors.
+I would like to also thank Mr John Fleming for helping me out with programming the system and Mr Jeremy Liegey for guiding me through the experimental testing protocol.
 
-### License
-This project is licensed under the BSD license - see the [LICENSE.md](https://github.com/multichannelsystems/McsDspRealtimeFeedback/blob/master/LICENSE.md) for details.
+I would like to extend my thanks to Mr Declan Lehane and Mr Patrick McNally for helping me out in designing the experimental test equipment including circuits design and printing.
+
+Last but not least, I would like to thank my Father, Imad, and my sister, Lian, as well as all my family members and fiends for their constant support throughout my college years.
+
+
+# Thesis & Poster
+Feel free to checkout my poster and my thesis for more details on closed loop DBS and the different algorithms that were implemented. 
+
+NB: The code in the thesis is the old version. For the latest version, checkout the different branches in the repository.
