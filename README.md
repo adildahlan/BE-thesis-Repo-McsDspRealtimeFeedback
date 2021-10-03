@@ -4,7 +4,7 @@ This code is for immplementing different open and closed-loop deep brain stimula
 
 This code was implemented for the W2100 Wireless System by MultiChannel Systems (https://www.multichannelsystems.com/products/ wireless-systems).
 
-The results were very promising and the system is currently being tested for animal trials.
+The results were very [promising](https://drive.google.com/drive/folders/1ckj78Yfw_t7ToD3CeOXzG4wE5-tvCAnh?usp=sharing) and the system is currently being tested for animal trials. 
 
 # Acknowledgments
 I would like to deeply thank Professor Madeleine Lowery, my supervisor, for her continuous support and guidance, enthusiastic encouragement, constructive critiques and believing in me, giving me the chance to be part of this amazing project despite joining the course late.
@@ -19,6 +19,6 @@ Last but not least, I would like to thank my Father, Imad, and my sister, Lian, 
 
 
 # Thesis & Poster
-Feel free to checkout my [poster](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/Adil_Poster.pptx) and my thesis [thesis](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/AdilDahlan_Thesis.pdf)  for more details on closed loop DBS and the different algorithms that were implemented. 
+Feel free to checkout my [poster](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/Adil_Poster.pptx) and my [thesis](https://github.com/adildahlan/BE-thesis-Repo-McsDspRealtimeFeedback/blob/master/AdilDahlan_Thesis.pdf)  for more details on closed loop DBS and the different algorithms that were implemented. 
 
 NB: The code in the thesis is the old version. For the latest version, checkout the different branches in the repository.
